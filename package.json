@@ -1,0 +1,9 @@
+{
+  "name": "homemood-site",
+  "private": true,
+  "type": "module",
+  "description": "HomeMood — сайт і функція приймання замовлень",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.4"
+  }
+}
